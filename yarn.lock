@@ -978,10 +978,10 @@ electron-is-dev@^3.0.1:
   resolved "https://registry.npmjs.org/electron-is-dev/-/electron-is-dev-3.0.1.tgz"
   integrity sha512-8TjjAh8Ec51hUi3o4TaU0mD3GMTOESi866oRNavj9A3IQJ7pmv+MJVmdZBFGw4GFT36X7bkqnuDNYvkQgvyI8Q==
 
-electron-log@^5.2.4:
-  version "5.2.4"
-  resolved "https://registry.npmjs.org/electron-log/-/electron-log-5.2.4.tgz"
-  integrity sha512-iX12WXc5XAaKeHg2QpiFjVwL+S1NVHPFd3V5RXtCmKhpAzXsVQnR3UEc0LovM6p6NkUQxDWnkdkaam9FNUVmCA==
+electron-log@^5.3.0:
+  version "5.3.0"
+  resolved "https://registry.yarnpkg.com/electron-log/-/electron-log-5.3.0.tgz#503a911983db09156965595a7ee9a39f2d9d6384"
+  integrity sha512-ILgbh2k9IKbSaN8NAbQriVteEhmkdLo/e4J1dg+JIBTFzXS/kO8zNRZBh/4YPwIT/zeyxF1jP6Xz8GLsPE2IBQ==
 
 electron-progressbar@^2.2.1:
   version "2.2.1"
